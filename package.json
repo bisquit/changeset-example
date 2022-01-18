@@ -1,0 +1,11 @@
+{
+  "name": "changeset-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/bisquit/changeset-example.git",
+  "author": "bisquit <qu1dpr09u0@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@changesets/cli": "^2.19.0"
+  }
+}
